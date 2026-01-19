@@ -6,7 +6,7 @@ Claude Code 教程：（从小白到实战）
 橘子老师@oran_ge [超级小白入门指南](https://x.com/i/status/2005419365450252425)
 
 
-乔木老师@vista8推荐的非程序员视角完整指南（超详细，降低门槛）：x.com/vista8/status/…
+乔木老师 @vista8 [推荐的非程序员视角完整指南（超详细，降低门槛）]（https://x.com/i/status/2011853168737681835）
 
 宝玉老师推荐@dotey Claude code 开发者 Boris 开发者9条实战技巧（高手秘诀）：x.com/dotey/status/2…
 
