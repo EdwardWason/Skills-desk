@@ -6,6 +6,8 @@
 
 - skills市场桌面客户端：https://www.skillhub.club/
 
+- 归藏老师的基于 AI 自动生成高质量 PPT 图片和视频的工具，[支持智能转场和交互](https://github.com/op7418/NanoBanana-PPT-Skills)
+
 
 ## ClaudeCode教程
 - 橘子老师@oran_ge [超级小白入门指南](https://x.com/i/status/2005419365450252425)
