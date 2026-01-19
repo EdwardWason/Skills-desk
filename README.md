@@ -1,9 +1,10 @@
 # Skills-desk
 
 
-
+[orange](https://x.com/i/status/2005419365450252425)
 Claude Code 教程：（从小白到实战）
-橘子老师@oran_ge 超级小白入门：x.com/oran_ge/status…
+橘子老师@oran_ge 超级小白入门：https://x.com/i/status/2005419365450252425
+
 
 乔木老师@vista8推荐的非程序员视角完整指南（超详细，降低门槛）：x.com/vista8/status/…
 
