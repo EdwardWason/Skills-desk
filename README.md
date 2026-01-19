@@ -1,5 +1,11 @@
 # Skills-Desk
 
+## Skills市场
+
+- 6万+Skills市场： https://skillsmp.com
+
+- skills市场桌面客户端：https://www.skillhub.club/
+
 
 ## ClaudeCode教程
 - 橘子老师@oran_ge [超级小白入门指南](https://x.com/i/status/2005419365450252425)
@@ -30,7 +36,3 @@
 - Yanhua 老师@yanhua1010 [Skills安装指南](https://x.com/i/status/2010690881397940340)
 
 - 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐 [用到现在最好](https://x.com/i/status/2012172395365437893)
-
-## Skills市场
-
-- 6万+Skills市场： skillsmp.com
