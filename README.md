@@ -1,15 +1,16 @@
 # Skills-Desk
 
-## Skills市场
+## Skills市场&工具&仓库
 
 - 6万+Skills市场： https://skillsmp.com
 
-- skills市场桌面客户端：https://www.skillhub.club/
+- skills市场桌面端 https://www.skillhub.club/
 
 - 宝玉的Obsidian自动配图Agent，[可以选择Gemini模型或者ModelScope模型](https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md)
 
 - 归藏老师的基于 AI 自动生成高质量 PPT 图片和视频的工具，[支持智能转场和交互](https://github.com/op7418/NanoBanana-PPT-Skills)
 
+- 将 Z-Library 书籍自动下载并上传NotebookLM，解决获取电子书导入到笔记工具中[阅读和分析的繁琐过程](https://github.com/zstmfhy/zlibrary-to-notebooklm)
 
 ## ClaudeCode教程
 - 橘子老师@oran_ge [超级小白入门指南](https://x.com/i/status/2005419365450252425)
