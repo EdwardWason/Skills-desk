@@ -6,6 +6,8 @@
 
 - skills市场桌面客户端：https://www.skillhub.club/
 
+- 宝玉的Obsidian自动配图Agent，[可以选择Gemini模型或者ModelScope模型](https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md)
+
 - 归藏老师的基于 AI 自动生成高质量 PPT 图片和视频的工具，[支持智能转场和交互](https://github.com/op7418/NanoBanana-PPT-Skills)
 
 
