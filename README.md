@@ -27,7 +27,7 @@
 
 - Pandan 老师@PandaTalk8官方文档推荐 [中文版超棒](https://x.com/i/status/2010630204641951839)
 
-- Yanhua 老师@yanhua1010 [Skills安装指南] (https://x.com/i/status/2010690881397940340)
+- Yanhua 老师@yanhua1010 [Skills安装指南](https://x.com/i/status/2010690881397940340)
 
 - 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐 [用到现在最好](https://x.com/i/status/2012172395365437893)
 
