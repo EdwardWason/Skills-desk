@@ -10,23 +10,23 @@
 
 - yanhua老师@yanhua1010 一站式资源汇总 [入门到高级](https://x.com/i/status/2011607384234360987)
 
-- Claude Code 101（490万观看，[怎么也得看看吧](https://x.com/i/status/2010076957938188661)
+- Claude Code 101 [490万观看](https://x.com/i/status/2010076957938188661)
 
 - Claude Code 102 [续集](https://x.com/i/status/2010810802023141688)
 
 ## OpenCode教程
 
-- 乔木老师@vista8 分享 OpenCode 入门（更多自主性）：x.com/vista8/status/…
+- 乔木老师@vista8 分享 OpenCode 入门 [更多自主性](https://x.com/i/status/2010540934359097689)
 
-- 卡兹克老师@Khazix0918 教程（连开发者都转发，神级）：x.com/Khazix0918/sta…
-
+- 卡兹克老师@Khazix0918 教程 [连开发者都转发](https://x.com/i/status/2010583610324140081
+)
 ## Skills教程
 
-- Pandan 老师@PandaTalk8官方文档推荐（中文版超棒）：x.com/PandaTalk8/sta…
+- Pandan 老师@PandaTalk8官方文档推荐 [中文版超棒](https://x.com/i/status/2010630204641951839)
 
-- Yanhua 老师@yanhua1010 Skills 安装指南：x.com/yanhua1010/sta…
+- Yanhua 老师@yanhua1010 [Skills安装指南] (https://x.com/i/status/2010690881397940340)
 
-- 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐（用到现在最好）：x.com/aiwarts/status…
+- 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐 [用到现在最好](https://x.com/i/status/2012172395365437893)
 
 ## Skills市场
 
