@@ -12,6 +12,20 @@
 
 - 将 Z-Library 书籍自动下载并上传NotebookLM，解决获取电子书导入到笔记工具中[阅读和分析的繁琐过程](https://github.com/zstmfhy/zlibrary-to-notebooklm)
 
+## Skills教程
+
+- 香蕉banana老师 [如何设计一个自我进化的Skill系统](https://x.com/i/status/2012825579934962004)
+- 王老师@wshuyi Claude Skills 入门：一篇文章搞懂 AI 怎么从「嘴替」[升级成打工人](https://x.com/i/status/2009451186039214388)
+
+- 王老师@wshuyi 另一篇:Claude Skill 快照：给你的 AI [技能迭代加个后悔药](https://x.com/i/status/2009896989912117327)
+
+- Pandan 老师@PandaTalk8官方文档推荐 [中文版超棒](https://x.com/i/status/2010630204641951839)
+
+- Yanhua 老师@yanhua1010 [Skills安装指南](https://x.com/i/status/2010690881397940340)
+
+- 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐 [用到现在最好](https://x.com/i/status/2012172395365437893)
+
+
 ## ClaudeCode教程
 - 橘子老师@oran_ge [超级小白入门指南](https://x.com/i/status/2005419365450252425)
 
@@ -31,15 +45,4 @@
 
 - 卡兹克老师@Khazix0918 教程 [连开发者都转发](https://x.com/i/status/2010583610324140081
 )
-## Skills教程
 
-- 香蕉banana老师 [如何设计一个自我进化的Skill系统](https://x.com/i/status/2012825579934962004)
-- 王老师@wshuyi Claude Skills 入门：一篇文章搞懂 AI 怎么从「嘴替」[升级成打工人](https://x.com/i/status/2009451186039214388)
-
-- 王老师@wshuyi 另一篇:Claude Skill 快照：给你的 AI [技能迭代加个后悔药](https://x.com/i/status/2009896989912117327)
-
-- Pandan 老师@PandaTalk8官方文档推荐 [中文版超棒](https://x.com/i/status/2010630204641951839)
-
-- Yanhua 老师@yanhua1010 [Skills安装指南](https://x.com/i/status/2010690881397940340)
-
-- 卡尔AI沃茨老师@aiwarts 顶级 Skills 推荐 [用到现在最好](https://x.com/i/status/2012172395365437893)
