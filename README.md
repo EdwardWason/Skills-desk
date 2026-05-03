@@ -12,6 +12,7 @@
 - [设计创意](#设计创意)
 - [研究与创新](#研究与创新)
 - [系统控制与自动化](#系统控制与自动化)
+- [内容创作](#内容创作)
 - [工具与实用](#工具与实用)
 
 ## Skills市场&工具&仓库
@@ -83,6 +84,113 @@
 | SkillHub | https://skillhub.cn/skills/bilingual-buddy |
 | ClawHub | https://clawhub.ai/wangjiaocheng/bilingual-buddy |
 | ⭐ Stars | 暂无公开数据 |
+
+---
+
+## ✍️ 内容创作
+
+### ljg-skills - 李继刚写作思考认知工具箱
+
+**简介**
+
+李继刚的底层逻辑是四个字：**精准压缩**——把复杂的东西压进高密度核心，让 AI 自己展开细节。推荐以下五个核心 skill 覆盖从阅读到表达的完整认知链。
+
+**核心 Skills**
+
+| 技能 | 描述 |
+|------|------|
+| ljg-plain | 逼 AI 说人话：把复杂内容改写成 12 岁小孩也能看懂的样子，剥掉所有虚的、模糊的、绕来绕去的东西 |
+| ljg-learn | 概念解剖器：一层一层往里拆一个概念，读论文卡住了、看技术文档晕了，扔给它就行 |
+| ljg-read | 伴读教练：陪你读长文，自动检测语言、英文翻译成中文、标注结构、追问深层问题 |
+| ljg-card | 认知可视化：把文字变成可分享的信息图 |
+| ljg-think | 追本之箭：给一个观点一路向下钻到本质，写深度文章前用它把核心观点想透 |
+
+**仓库信息**
+
+| 项目 | 地址 |
+|------|------|
+| GitHub | https://github.com/lijigang/ljg-skills |
+| 安装命令 | `npx skills add lijigang/ljg-skills` |
+
+---
+
+### huashu-skills - 花叔内容创作21合1工厂
+
+**简介**
+
+花叔，30 万粉 AI博主，代表作「小猫补光灯」。他把从选题到数据分析的整条内容生产线做成了 21 个 Skill。
+
+**核心 Skills**
+
+| 技能 | 描述 |
+|------|------|
+| huashu-slides | PPT 制作：一句话出标准 PPTX，18 种设计风格，三种协作模式 |
+| huashu-topic-gen | 选题生成：输入方向输出 3-4 个选题方案，含标题、大纲、优劣分析和工作量评估 |
+| huashu-proofreading | 三遍审校：系统化降 AI 味——事实核查→AI 腔识别改写→节奏打磨 |
+| huashu-article-to-x | 长文转社交媒体：3000 字公众号文章浓缩成微博/小红书版 |
+| huashu-wechat-image | 公众号配图：封面图、正文插图、信息图，AI 生成和 HTML 渲染两条路径 |
+| huashu-research | 结构化调研：每搜一轮保存一轮，不怕会话截断 |
+| huashu-data-pro | 数据分析报告：Excel 到专业报告，5 种报告风格 |
+| huashu-material-search | 个人素材库：从你的笔记中检索素材，让 AI 写的内容有你的"人味" |
+
+**仓库信息**
+
+| 项目 | 地址 |
+|------|------|
+| GitHub | https://github.com/alchaincyf/huashu-skills |
+| 安装命令 | `npx skills add alchaincyf/huashu-skills` |
+
+---
+
+### canghe-skills - 苍何配图发布格式全链路
+
+**简介**
+
+苍何的仓库，是内容创作者的瑞士军刀——从下载素材到生成配图到发布公众号，全流程覆盖。
+
+**核心 Skills**
+
+| 技能 | 描述 |
+|------|------|
+| douyin-downloader | 抖音下载+分析：一条链接，视频+文字全搞定，文本层面拆解爆款结构 |
+| xhs-images | 小红书配图系列：9 种视觉风格×6 种排版密度，从封面到知识卡片全覆盖 |
+| article-illustrator | 文章插图：自动识别文章中需要配图的位置，6 种信息图类型×8 种视觉风格 |
+| cover-image | 封面图：五维封面系统——类型×配色×渲染×文字×情绪，54 种组合 |
+| post-to-wechat | 发布到公众号：API 和浏览器两种模式，图文、长文、HTML 都能发 |
+| wechat-article-extractor | 公众号文章提取：公众号链接一键转 Markdown，素材收集神器 |
+| url-to-markdown | 网页转 Markdown：任何网页转 Markdown，支持需登录的页面 |
+| format-markdown | MD 格式化：自动排版——YAML 头信息、标题层级、列表、代码块，一键搞定 |
+
+**仓库信息**
+
+| 项目 | 地址 |
+|------|------|
+| GitHub | https://github.com/freestylefly/canghe-skills |
+| 安装命令 | `npx skills add freestylefly/canghe-skills` |
+
+---
+
+### kangarooking-skills - 袋鼠帝起号配图自动化
+
+**简介**
+
+袋鼠帝的仓库虽小但实用，围绕内容创作者的日常需求做了 7 个 Skill。
+
+**核心 Skills**
+
+| 技能 | 描述 |
+|------|------|
+| ai-article-daily | 起号 SOP：选题→搜集资料→切入角度→初稿和标题→配图→排版→发布草稿箱，全流程内置 Prompt 模板，可以设成定时任务每天自动跑 |
+| book-illustration-workflow | 书稿配图流程：梳理章节需要的截图和配图，统一图号→文件名→原文位置，回填到 Markdown 正确位置，同步到飞书文档 |
+| multi-agent-image | 多 Agent 图片生成：基于 gpt-image-2 的异步生成+轮询+下载流程，支持批量生成和系列套图 |
+| twitter-monitor | X/Twitter 监控：按博主抓取最新推文，输出 JSON/CSV |
+
+**仓库信息**
+
+| 项目 | 地址 |
+|------|------|
+| GitHub | https://github.com/kangarooking/kangarooking-skills |
+| 安装命令 | `npx skills add kangarooking/kangarooking-skills` |
 
 ---
 
